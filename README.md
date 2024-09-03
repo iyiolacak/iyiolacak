@@ -1,5 +1,4 @@
-about me
-
-    age: 18 (but age is just a number, right?)
-    pronouns: he/him
-    mindset: wanna-be nerd, but more of a hands-on, let's-get-shit-done kinda guy
+about me:
+- age: 18 (but age is just a number, right?)
+- pronouns: he/him
+- mindset: hands-on learner with a bit of a perfectionist problem, but i’m all about getting things done the right way
